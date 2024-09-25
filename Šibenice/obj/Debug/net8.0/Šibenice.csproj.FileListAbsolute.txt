@@ -1,0 +1,14 @@
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/obj/Debug/net8.0/Šibenice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/obj/Debug/net8.0/Šibenice.AssemblyInfoInputs.cache
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/obj/Debug/net8.0/Šibenice.AssemblyInfo.cs
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/obj/Debug/net8.0/Šibenice.csproj.CoreCompileInputs.cache
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/bin/Debug/net8.0/Šibenice
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/bin/Debug/net8.0/Šibenice.deps.json
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/bin/Debug/net8.0/Šibenice.runtimeconfig.json
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/bin/Debug/net8.0/Šibenice.dll
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/bin/Debug/net8.0/Šibenice.pdb
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/obj/Debug/net8.0/Šibenice.dll
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/obj/Debug/net8.0/refint/Šibenice.dll
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/obj/Debug/net8.0/Šibenice.pdb
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/obj/Debug/net8.0/Šibenice.genruntimeconfig.cache
+/Users/filippatrman/Documents/Skola/PRG/C#/Šibenice/Šibenice/obj/Debug/net8.0/ref/Šibenice.dll
